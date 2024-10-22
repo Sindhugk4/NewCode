@@ -1,0 +1,23 @@
+#outer{
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+    border: 3px solid green;
+    display: flex;
+    background-color: white;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-size: 50px;
+    flex-direction: row;
+    text-align: center;
+    
+}
